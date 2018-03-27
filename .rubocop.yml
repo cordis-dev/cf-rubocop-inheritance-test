@@ -1,0 +1,11 @@
+AllCops:
+  DisabledByDefault: true
+  
+Style/WhileUntilDo:
+  Enabled: true
+  
+Style/UnneededInterpolation:
+  Enabled: true
+  
+Style/TrailingUnderscoreVariable:
+  Enabled: false

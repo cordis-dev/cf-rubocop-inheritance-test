@@ -1,1 +1,1 @@
-# cf-rubocop-inheritance-test
+# cf-rubocop-inheritance-test 

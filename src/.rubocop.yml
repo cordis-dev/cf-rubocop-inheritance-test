@@ -1,6 +1,12 @@
 inherit_from:
   - ../.rubocop.yml
   - ../conf/.rubocop.yml
+  - http://www.example.com/rubocop.yml
+
+inherit_gem:
+  my-shared-gem:
+    - default.yml
+    - strict.yml
 
 Style/Encoding:
   Enabled: false

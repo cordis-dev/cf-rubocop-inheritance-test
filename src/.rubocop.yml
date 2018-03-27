@@ -12,4 +12,4 @@ Style/Encoding:
   Enabled: false
 
 Metrics/LineLength:
-  Max: 99
+  Max: 59
